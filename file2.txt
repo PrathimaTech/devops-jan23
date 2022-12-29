@@ -1,3 +1,5 @@
 this is file1
 this is for commmit5
 this is for 3 way merge demo in main branch-1
+this is for 3 way merge demo 1
+this is for 3 way merge demo 2
